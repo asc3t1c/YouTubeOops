@@ -62,15 +62,6 @@ After this date, your key will no longer work. You will need to **request a new 
 
 ---
 
-## 🌐 Network Requirements
-
-- **No internet connection is required**.  
-- Users **do not run any server or generate keys**.  
-- Simply run the installer and enter the license key provided by the developer.  
-- The software will validate the key locally and activate automatically.
-
----
-
 ## 🛡️ Security & Privacy
 
 - All keys are **generated securely** by the developer.
