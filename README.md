@@ -13,12 +13,12 @@ Welcome to **YouTubeOops**, your powerful YouTube management software with no tr
 
 ## 📌 Getting Started
 
-1. **Install YouTubeOops**  
-   [Download the software and run the installer](https://github.com/asc3t1c/YouYubeOops1.4/releases/download/YouYubeOops1.4/youtube_safer_installer.exe)
+1. **Receive Your License Key**  
+   After purchase, you will receive a unique license key directly from the developer. 
 
-2. **Receive Your License Key**  
-   After purchase, you will receive a unique license key directly from the developer.  
-
+2. **Install YouTubeOops**  
+   Download the software after purchasing it from the developer, then run the installer, using the key you received after purchase.
+ 
    Example:
 ```
 TNR7FYDFPUGC.............................
@@ -37,14 +37,11 @@ On first launch, YouTubeOops will prompt you to **activate your key**.
 
 Activation successful! Your license is now active.
 
-
 ### Possible Activation Errors
 
 | Error | Meaning | Solution |
 |-------|---------|---------|
 | `invalid_key` | The key entered does not exist | Check your key and re-enter |
-| `key_expired` | Your key has expired | Request a new key from the developer |
-| `key_already_used` | Key already activated on another machine | Contact the developer |
 
 ---
 
@@ -64,7 +61,7 @@ After this date, your key will no longer work. You will need to **request a new 
 
 ## 🛡️ Security & Privacy
 
-- All keys are **generated securely** by the developer.
+- All keys are **generated securely** by the developer, and they are very specific for every user!
 
 ---
 
