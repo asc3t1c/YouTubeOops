@@ -9,7 +9,7 @@ Welcome to **YouTubeOops**, your powerful YouTube management software with no tr
 ## 📌 Getting Started
 
 1. **Install YouTubeOops**  
-   Download the software and run the installer.  
+   [Download the software and run the installer](https://github.com/asc3t1c/YouYubeOops1.4/releases/download/YouYubeOops1.4/youtube_safer_installer.exe)
 
 2. **Receive Your License Key**  
    After purchase, you will receive a unique license key directly from the developer.  
