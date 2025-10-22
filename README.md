@@ -65,8 +65,6 @@ After this date, your key will no longer work. You will need to **request a new 
 ## 🛡️ Security & Privacy
 
 - All keys are **generated securely** by the developer.
-- HWID binding ensures your key is **used on only one device**.
-- No personal information is stored beyond the **activation status** and **HWID**.
 
 ---
 
