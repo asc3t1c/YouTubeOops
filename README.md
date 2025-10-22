@@ -80,7 +80,7 @@ If you encounter issues:
 
 # NOTE
 I will respond as soon as I can. Best Regards
-- Email: `venvaropt@gmail.com` - to receive your key, and support
+- Email: `venvaropt@gmail.com` - to receive your key after paying, and support
 - Include your **key** and **HWID** for faster support.
 
 ---
