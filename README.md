@@ -59,9 +59,10 @@ After this date, your key will no longer work. You will need to **request a new 
 
 ## 🌐 Network Requirements
 
-- Internet access is required to **validate your key**.
-- Activation communicates with the **YouTubeOops Activation Server** running locally.
-- No additional setup is required; the server runs automatically with the software.
+- **No internet connection is required**.  
+- Users **do not run any server or generate keys**.  
+- Simply run the installer and enter the license key provided by the developer.  
+- The software will validate the key locally and activate automatically.
 
 ---
 
