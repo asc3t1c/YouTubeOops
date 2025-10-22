@@ -87,7 +87,4 @@ If you encounter issues:
 
 Thank you for purchasing! Keep your key safe, check expiration dates, and enjoy the full power of YouTubeOops.
 
-
-
-
-✅ If the key is valid and not expired, you will see:  
+✅ If the key is valid and not expired, you will see the software fully activated. 
