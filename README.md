@@ -78,7 +78,7 @@ After this date, your key will no longer work. You will need to **request a new 
 
 If you encounter issues:
 
-- Email: `support@youtubeoops.com`
+- Email: `venvaropt@gmail.com`
 - Include your **key** and **HWID** for faster support.
 
 ---
