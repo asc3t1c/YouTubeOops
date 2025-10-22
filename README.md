@@ -78,7 +78,9 @@ After this date, your key will no longer work. You will need to **request a new 
 
 If you encounter issues:
 
-- Email: `venvaropt@gmail.com`
+# NOTE
+I will respond as soon as I can. Best Regards
+- Email: `venvaropt@gmail.com` - to receive your key, and support
 - Include your **key** and **HWID** for faster support.
 
 ---
