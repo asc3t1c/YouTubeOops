@@ -7,6 +7,22 @@ Best Regards
 
 ---
 
+**Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
+
+- Google acounting
+- Youtube browsing
+- Dev console hacking
+- Browsing any website
+- suffix gmail creation
+- Exploring
+- Google disk
+
+⚠️ ***WARNING:***
+**After you quit the `YouYubeOops` app, all these option descriptions above will disappear!**
+***no cache, no cookie, no session, no registry & no tracking locally***
+
+---
+
 **OS Support**
  Windows 8,10,11 
 
