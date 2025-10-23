@@ -18,7 +18,9 @@ Best Regards
 - Google disk
 
 ⚠️ ***WARNING:***
+
 **After you quit the `YouYubeOops` app, all these option descriptions above will disappear!**
+
 ***no cache, no cookie, no session, no registry & no tracking locally***
 
 ---
