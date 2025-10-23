@@ -9,6 +9,8 @@ Best Regards
 
 ***Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
 
+**You will NEVER by BLOCKING from YouTube +**
+
 - Google accounting
 - Youtube browsing
 - Dev console hacking
