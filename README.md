@@ -9,7 +9,7 @@ Best Regards
 
 ***Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
 
-**You will NEVER by BLOCKING from YouTube +**
+**You will NEVER be BLOCKED from YouTube, even if you lose a registered account!😎 +**
 
 - Google accounting
 - Youtube browsing
