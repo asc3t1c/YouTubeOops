@@ -34,7 +34,7 @@ On first launch, YouTubeOops will prompt you to **activate your key**.
 
 1. Open YouTubeOops.
 2. Enter your **license key**.
-3. Click **Activate**.
+3. Click **Next**.
 
 Activation successful! Your license is now active.
 
@@ -46,17 +46,16 @@ Activation successful! Your license is now active.
 
 ---
 
-## ⏳ Key Expiration
+## ⏳ Key Expiration and more
 
 Each key has a **limited validity**. For example: 
-
 ```
 Your key expires at: 2025-10-22T10:02:28 UTC
 ```
 
-After this date, your key will no longer work. You will need to **request a new key** from the developer.
-
-> ⚠️ Keys are **bound to one device**. Using the same key on another machine will not work.
+> ⚠️ Keys are **bound to one installer + SPECIFIC key**. Using the same key on another machine will not work.
+> You can not use every installer with a different key you want - 2FA authentication architecture.
+> Every installer has their own key, which you can receive only from the developer after you buy it. 
 
 ---
 
