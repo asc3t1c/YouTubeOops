@@ -7,7 +7,7 @@ Best Regards
 
 ---
 
-**Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
+***Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
 
 - Google accounting
 - Youtube browsing
