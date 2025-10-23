@@ -9,7 +9,9 @@ Best Regards
 
 ***Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
 
-**You will NEVER be BLOCKED from YouTube, even if you lose a registered account!😎 +**
+**You will NEVER be BLOCKED from YouTube, even if they terminate your registered account!😎 
+No need to reset your browser, no need to clean and lose your passwords and login sessions! 
+You will be completely INCOGNITO! +**
 
 - Google accounting
 - Youtube browsing
