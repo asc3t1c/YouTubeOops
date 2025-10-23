@@ -55,7 +55,7 @@ Your key expires at: 2025-10-22T10:02:28 UTC
 
 > ⚠️ Keys are **bound to one installer + SPECIFIC key**. Using the same key on another machine will not work.
 > You can not use every installer with a different key you want - 2FA authentication architecture.
-> Every installer has their own key, which you can receive only from the developer after you buy it. 
+> Every installer has their own key, which you can receive only from the developer after you buy it. ⚠️
 
 ---
 
@@ -65,13 +65,11 @@ Your key expires at: 2025-10-22T10:02:28 UTC
 
 ---
 
-## ⚙️ Support
-
-If you encounter issues:
+## ⚙️ Support and contact
 
 # NOTE
 I will respond as soon as I can. Best Regards
-- Email: `bugb0untypropentest@gmail.com` - to receive your key after paying, and support
+- Email: `bugb0untypropentest@gmail.com` - to receive your key and `software` after paying, and support
 
 ---
 
