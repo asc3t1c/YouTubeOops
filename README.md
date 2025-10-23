@@ -9,11 +9,11 @@ Best Regards
 
 **Options you have: with no cache, no cookie, no session, no registry & no tracking locally***
 
-- Google acounting
+- Google accounting
 - Youtube browsing
 - Dev console hacking
 - Browsing any website
-- suffix gmail creation
+- suffix Gmail creation
 - Exploring
 - Google disk
 
