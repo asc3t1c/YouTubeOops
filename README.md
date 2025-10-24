@@ -82,7 +82,7 @@ Each key has a **limited validity**. For example:
 Your key expires at: 2025-10-22T10:02:28 UTC
 ```
 
-⚠️ > Keys are **bound to one installer + SPECIFIC key**. Using the same key on another machine will not work.
+> ⚠️ Keys are **bound to one installer + SPECIFIC key**. Using the same key on another machine will not work.
 > You can not use every installer with a different key you want - 2FA authentication architecture.
 > Every installer has their own key, which you can receive only from the developer after you buy it.️
 > After you approve that you are the owner of the application, your key will be renewed free of charge!
