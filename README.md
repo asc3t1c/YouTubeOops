@@ -29,14 +29,16 @@ You will be completely INCOGNITO! +**
 
 ---
 
-**OS Support**
+**OS Support:**
+```
  Windows 8,10,11 
-
+```
 ---
 
-**Chrome support**
+**Chrome support:**
+```
 Version 141.0.7390.123 (Official Build) (64-bit)
-
+```
 ---
 
 ## 📌 Getting Started
