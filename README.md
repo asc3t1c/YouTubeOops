@@ -41,6 +41,8 @@ Version 141.0.7390.123 (Official Build) (64-bit)
 ```
 - # NOTE:
 - Actually, you will use only the webdriver! Not full software 😎
+- Your YouYubeOops will care ONLY from the webdriver 😎
+- Stay safety with YouYubeOops 😎
 
 ---
 
