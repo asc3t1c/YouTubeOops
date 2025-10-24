@@ -35,7 +35,7 @@ You will be completely INCOGNITO! +**
 ```
 ---
 
-**Chrome support:**
+**Chrome support, and you need to INSTALL on your PC:**
 ```
 Version 141.0.7390.123 (Official Build) (64-bit)
 ```
