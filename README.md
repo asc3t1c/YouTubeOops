@@ -101,6 +101,9 @@ I will respond as soon as I can. Best Regards
 - Email: `bugb0untypropentest@gmail.com` - to receive your key and `software` after paying, and support
 
 ---
+## 🚨 IMPORTANT: 
+
+After you purchase your software, you will receive it in 3 working days!
 
 ## 🎉 Enjoy YouTubeOops!
 
