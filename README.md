@@ -35,10 +35,13 @@ You will be completely INCOGNITO! +**
 ```
 ---
 
-**Chrome support, and you need to INSTALL on your PC:**
+**You need to INSTALL on your PC Chrome:**
 ```
 Version 141.0.7390.123 (Official Build) (64-bit)
 ```
+- # NOTE:
+- Actually, you will use only the webdriver! Not full software 😎
+
 ---
 
 ## 📌 Getting Started
