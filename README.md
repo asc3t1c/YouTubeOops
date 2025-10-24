@@ -34,6 +34,11 @@ You will be completely INCOGNITO! +**
 
 ---
 
+**Chrome support**
+Version 141.0.7390.123 (Official Build) (64-bit)
+
+---
+
 ## 📌 Getting Started
 
 1. **Receive Your License Key**  
