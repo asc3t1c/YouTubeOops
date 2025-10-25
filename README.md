@@ -51,10 +51,10 @@ Version 141.0.7390.123 (Official Build) (64-bit)
 ## 📌 Getting Started
 
 1. **Receive Your License Key**  
-   After purchase, you will receive a unique license key directly from the developer. 
+   After purchase, you will receive a unique license key and user directly from the developer. 
 
 2. **Install YouTubeOops**  
-   Download the software after purchasing it from the developer, then run the installer, using the key you received after purchase.
+   Download the software after purchasing it from the developer, then run the installer, using the key and username you received after purchase.
  
    Example:
 ```
@@ -62,7 +62,7 @@ TNR7FYDFPUGC.............................
 ```
 
 3. **Run the Software**  
-On first launch, YouTubeOops will prompt you to **activate your key**.
+On first launch, YouTubeOops will prompt you to **activate your username and key**.
 
 ---
 
@@ -79,6 +79,8 @@ Activation successful! Your license is now active.
 | Error | Meaning | Solution |
 |-------|---------|---------|
 | `invalid_key` | The key entered does not exist | Check your key and re-enter |
+| `invalid_username` | The username is wrong | Check your username and re-enter |
+| `the_key_is expired` | The key is expired | Check your key and re-enter |
 
 ---
 
