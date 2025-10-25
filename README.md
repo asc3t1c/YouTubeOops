@@ -69,7 +69,7 @@ On first launch, YouTubeOops will prompt you to **activate your key**.
 ## 🔑 Activating Your Key
 
 1. Open YouTubeOops.
-2. Enter your **license key**.
+2. Enter your **username** and **license key**.
 3. Click **Next**.
 
 Activation successful! Your license is now active.
