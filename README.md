@@ -1,4 +1,4 @@
-# 🎬 YouTubeOops1.4 Activation Guide
+# 🎬 YouTubeOops Activation Guide
 
 **Author:** nu11secur1ty  
 
