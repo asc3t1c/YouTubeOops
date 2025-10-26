@@ -88,11 +88,11 @@ Activation successful! Your license is now active.
 
 Each key has a **limited validity**. For example: 
 
-**IMPORTANT:** The default package, which you will purchase, is valid for 1 year.
-
 ```
 Your key expires at: 2025-10-22T10:02:28 UTC
 ```
+
+**IMPORTANT:** The default package, which you will purchase, is valid for 1 year.
 
 ⚠️ WARNING:
 
