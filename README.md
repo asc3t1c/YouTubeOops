@@ -87,6 +87,7 @@ Activation successful! Your license is now active.
 ## ⏳ Key Expiration and more
 
 Each key has a **limited validity**. For example: 
+
 **IMPORTANT:** The default package, which you will purchase, is valid for 1 year.
 
 ```
