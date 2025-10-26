@@ -87,6 +87,8 @@ Activation successful! Your license is now active.
 ## ⏳ Key Expiration and more
 
 Each key has a **limited validity**. For example: 
+**IMPORTANT:** The default package, which you will purchase, is valid for 1 year.
+
 ```
 Your key expires at: 2025-10-22T10:02:28 UTC
 ```
@@ -119,4 +121,4 @@ After you purchase your software, you will receive all activation files within 3
 
 Thank you for purchasing! Keep your key safe, check expiration dates, and enjoy the full power of YouTubeOops.
 
-✅ If the key is valid and not expired, you will see the software fully activated. 
+✅ If the username, installer, and key are valid and not expired, you will see the software fully activated. 
