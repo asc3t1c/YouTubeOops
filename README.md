@@ -93,7 +93,7 @@ Your key expires at: 2025-10-22T10:02:28 UTC
 
 ⚠️ WARNING:
 
-Keys are bound to one installer + SPECIFIC username and key. Using the same key on another machine will not work. You can not use every installer with a different key; you want a 3FA authentication architecture. Every installer has their own key, which you can receive only from the developer after you buy it.️ After you approve that you are the owner of the application, your key will be renewed free of charge! For more information abouth how to prove that you are an owner of the software, please use the email contact! 
+YouTubeOops is bound to one `installer + SPECIFIC username and key`. Using the same key, installer, and username on another machine will not work. You can not use every installer with a different key and username; you want a 3FA authentication architecture. Every installer has their own key, which you can receive only from the developer after you buy it.️ After you approve that you are the owner of the application, your key will be renewed free of charge! For more information abouth how to prove that you are an owner of the software, please use the email contact! 
 Best Regards
 
 ---
