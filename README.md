@@ -23,7 +23,7 @@ You will be completely INCOGNITO! +**
 
 ⚠️ ***WARNING:***
 
-**After you quit the `YouYubeOops` app, all these option descriptions above will disappear!**
+**After you quit the `YouTubeOops` app, all these option descriptions above will disappear!**
 
 ***no cache, no cookie, no session, no registry & no tracking locally***
 
@@ -43,8 +43,8 @@ Version 141.0.7390.123 (Official Build) (64-bit)
 - # NOTE:
 
 - Actually, you will use only the webdriver! Not full software 😎
-- Your YouYubeOops will care ONLY from the webdriver 😎
-- Stay safety with YouYubeOops 😎
+- Your YouTubeOops will care ONLY from the webdriver 😎
+- Stay safety with YouTubeOops 😎
 
 ---
 
