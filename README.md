@@ -36,8 +36,10 @@ You will be completely INCOGNITO! +**
 ---
 
 **You need to INSTALL on your PC Chrome:**
+- Always upgrade your Chrome browser to the latest version - **ChromeDriver**!
+  
 ```
-Version 141.0.7390.123 (Official Build) (64-bit)
+Version 141.0.7390.123 (Official Build) (64-bit) or high version...
 ```
 
 - # NOTE:
