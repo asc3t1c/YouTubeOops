@@ -39,7 +39,7 @@ You will be completely INCOGNITO! +**
 - Always upgrade your Chrome browser to the latest version - **ChromeDriver**!
   
 ```
-Version 141.0.7390.123 (Official Build) (64-bit) or high version...
+Version 141.0.7390.123 (Official Build) (64-bit)  or a high version...
 ```
 
 - # NOTE:
