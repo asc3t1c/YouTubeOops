@@ -1,6 +1,6 @@
 # 🎬 YouTubeOops Activation Guide
 
-**Author:** nu11secur1ty 
+**Author:** nu11secur1ty 2025
 
 Welcome to **YouTubeOops**, your powerful YouTube management software with no tracking, logs, cookies, or sessions saving on your PC! This guide will help you **activate your license key**, understand **key expiration**, and **renew your key** if needed. The price is 50€ for activating! Download link you will receive after buying the key. 
 Best Regards
